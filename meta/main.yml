@@ -20,3 +20,5 @@ galaxy_info:
     - all
   categories:
     - database
+
+allow_duplicates: yes
